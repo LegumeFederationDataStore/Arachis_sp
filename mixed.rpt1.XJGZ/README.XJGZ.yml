@@ -52,3 +52,4 @@ file_transformation:
 changes: 
   - 2018-04-18 Added MANIFEST files
   - 2018-04-18 Changed key name: mv arasp.mixed.rpt1.SHSZ.repeats_MITE1.fna.gz arasp.mixed.rpt1.XJGZ.repeats_MITE1.fna.gz
+  - 2018-09-15 Added prefixing to fasta
