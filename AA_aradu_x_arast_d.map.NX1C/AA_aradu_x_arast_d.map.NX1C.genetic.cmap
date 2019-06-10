@@ -1,0 +1,554 @@
+map_acc	map_name	map_start	map_stop	feature_acc	feature_name	feature_aliases	feature_start	feature_stop	feature_type_acc	is_landmark
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG902975_95	TOG902975_95	TOG902975_95	0.0	0.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_DS_c4214_1102	DS_c4214_1102	SNP0716	4.4	4.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TC2E05	TC2E05	Ah1TC02E05	5.3	5.3	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_DS_c1562_542	DS_c1562_542	SNP0415	11.4	11.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_DS_c17603_90	DS_c17603_90	SNP0454	17.4	17.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG905517_157	TOG905517_157	SNP0169	20.0	20.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_SD_c677p178vAG	SD_c677p178vAG	SD_c677p178vAG	20.8	20.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_RN25H06	RN25H06	AS1RN25H06	22.1	22.1	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG897646_500	TOG897646_500	SNP0078	22.7	22.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_DS_c5189_186	DS_c5189_186	SNP0797	24.6	24.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_DS_c21594_45	DS_c21594_45	SNP0514	25.8	25.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG894141_355	TOG894141_355	SNP1067	28.1	28.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_DS_c2443_410	DS_c2443_410	SNP0555	28.9	28.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_RN9A05	RN9A05	AS1RN09A05	29.5	29.5	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_Leg463_1	Leg463_1	Leg463	30.1	30.1	STS	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_Branch length, lateral 1-1	Branch length, lateral 1-1	LBL	30.1	32.7	QTL_leaf-stem	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_Root weight/Haulm weight 1-1	Root weight/Haulm weight 1-1	Log_RRA	31.2	34.1	QTL_whole-plant	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_Seeds per plant 3-3	Seeds per plant 3-3	Log_SN_2010a 	32.2	33.9	QTL_yield	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_DS_c11080_157	DS_c11080_157	SNP0278	32.7	32.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_DS_c17991_98	DS_c17991_98	SNP0460	33.3	33.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_SD_c886p109vAC	SD_c886p109vAC	SD_c886p109vAC	33.9	33.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_Root weight/Haulm weight 1-2	Root weight/Haulm weight 1-2	Log_RRA	34.8	43.8	QTL_whole-plant	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_Ah-193	Ah-193	Ah-193	39.0	39.0	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TC20D05	TC20D05	Ah3TC20D05	43.9	43.9	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_DS_c761_64	DS_c761_64	SNP0947	44.7	44.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_Leg047	Leg047	Leg047	45.0	45.0	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG900261_468	TOG900261_468	TOG900261_468	45.3	45.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG895242_363	TOG895242_363	TOG895242_363	45.9	45.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG894987	TOG894987	SNP0019	46.5	46.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_Leg178	Leg178	Leg178	47.1	47.1	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_SD_c864p215vCT	SD_c864p215vCT	SD_c864p215vCT	47.1	47.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG895455_422	TOG895455_422	TOG895455_422	49.1	49.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG896615_1198	TOG896615_1198	SNP0055	50.0	50.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_SD_c329p435vAC	SD_c329p435vAC	SD_c329p435vAC	51.4	51.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG895199_183	TOG895199_183	TOG895199_183	52.1	52.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG901908_683	TOG901908_683	TOG901908_683	53.0	53.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_RGA16	RGA16	AS1RN07P1G02	55.4	55.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG901037_411	TOG901037_411	TOG901037_411	57.6	57.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG896390_652	TOG896390_652	SNP0050	60.2	60.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_Seq2H11	Seq2H11	pPGPSeq02H11	61.0	61.0	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG902998	TOG902998	SNP0148_1	61.8	61.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG902998_510	TOG902998_510	SNP0148_2	63.1	63.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_GM635a	GM635a	GA042	66.0	66.0	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_SD_c1056p774vAT	SD_c1056p774vAT	SD_c1056p774vAT	66.0	66.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG931720_758	TOG931720_758	Ah2n_TOG931720_2	67.2	67.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG895237_630	TOG895237_630	TOG895237_630	68.4	68.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_Seq3B5	Seq3B5	pPGPSeq03B05	76.6	76.6	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_DS_c4560_244	DS_c4560_244	SNP0744	77.4	77.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG896530_562	TOG896530_562	SNP0052	80.7	80.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_Specific leaf area 1-1	Specific leaf area 1-1	Log_SLA_40	82.6	86.7	QTL_leaf-stem	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_DS_c1301_572	DS_c1301_572	SNP0345	83.6	83.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_DS_c6166_412	DS_c6166_412	SNP0868	87.1	87.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_TOG904805_259	TOG904805_259	SNP0160	88.1	88.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_Pod constriction 3-1	Pod constriction 3-1	Pod_Constr	88.1	93.7	QTL_pod	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_RN22A12	RN22A12	AS1RN22A12	93.7	93.7	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_Leg037	Leg037	Leg037	94.5	94.5	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A01	A01	0.0	95.4	AA_A.duranensis_x_A.stenosperma_d_A01_RN17F12	RN17F12	AS1RN17F12	95.4	95.4	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_TOG899545_480	TOG899545_480	TOG899545_480	0.0	0.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_TC42A05	TC42A05	Ah3TC42A05	10.7	10.7	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_DS_c11309_145	DS_c11309_145	SNP0288	12.8	12.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_Seq12E3_P	Seq12E3_P	pPGSSeq12E03	20.1	20.1	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_SD_c2000p580vAT	SD_c2000p580vAT	SD_c2000p580vAT	24.2	24.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_RN20C10	RN20C10	AS1RN20C10.1	27.0	27.0	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_SD_c6302p274vAC	SD_c6302p274vAC	SD_c6302p274vAC	32.3	32.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_DS_c11441_202	DS_c11441_202	SNP0293	34.3	34.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_TOG905828_189	TOG905828_189	TOG905828_189	34.9	34.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_TOG906955	TOG906955	SNP0177	34.9	34.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_TOG895021_390	TOG895021_390	TOG895021_390	36.1	36.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_RGA18	RGA18	AS1RN32P1E12	37.4	37.4	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_PM402	PM402	PM402	39.3	39.3	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_PM73	PM73	PM073	39.9	39.9	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_Leg213	Leg213	Leg213	43.8	43.8	size polymorphism of PCR product	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_TOG912749	TOG912749	SNP0190_1	46.4	46.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_TOG912749_615	TOG912749_615	SNP0190_2	46.4	46.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_Leg296	Leg296	Leg296	47.0	47.0	STS	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_RN0x615	RN0x615	AS1RN0x615	47.6	47.6	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_TOG908191_552	TOG908191_552	SNP0180	48.9	48.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_DS_c20163_113	DS_c20163_113	SNP0499	49.5	49.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_TC4D02	TC4D02	Ah1TC04D02	50.1	50.1	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_TOG900416	TOG900416	Ah2n_TOG900416_1	51.3	51.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_Leg202	Leg202	Leg202	52.5	52.5	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_Ah-573	Ah-573	Ah-573	53.3	53.3	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_DS_c1594_467	DS_c1594_467	SNP0421	54.0	54.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_TC1A08	TC1A08	Ah1TC01A08	54.7	54.7	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_SD_c3834p292vAG	SD_c3834p292vAG	SD_c3834p292vAG	56.4	56.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_DS_c4566_203	DS_c4566_203	SNP0745	63.7	63.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_Seq14F4	Seq14F4	pPGSSeq14F04	66.2	66.2	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_Peanut root-knot nematode 1-1	Peanut root-knot nematode 1-1	GI_2011	66.2	69.9	QTL_nematode	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_Peanut root-knot nematode 1-3	Peanut root-knot nematode 1-3	GI_2013	66.2	69.9	QTL_nematode	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_Peanut root-knot nematode 1-6	Peanut root-knot nematode 1-6	Log_EGR_2011	66.2	69.9	QTL_nematode	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_Leg146	Leg146	Leg146.1	69.9	69.9	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_Seq11H11	Seq11H11	pPGSSeq11H11	73.7	73.7	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_TOG896540_664	TOG896540_664	SNP0053	76.2	76.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_Leaf chlorophyll 1-1	Leaf chlorophyll 1-1	Log_SCMR_40	76.2	81.0	QTL_organic	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_Leg069	Leg069	Leg069	81.0	81.0	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_LegTC3145	LegTC3145	LegTC3145	81.6	81.6	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_TOG894890_927	TOG894890_927	SNP1068	82.3	82.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_DS_c1565_477	DS_c1565_477	SNP0416	83.0	83.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_DS_c1458_262	DS_c1458_262	SNP0395	86.8	86.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A02	A02	0.0	88.1	AA_A.duranensis_x_A.stenosperma_d_A02_TOG908826_274	TOG908826_274	TOG908826_274	88.1	88.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Seq4F10	Seq4F10	pPGPSeq04F10	0.0	0.0	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Haulm weight 2-1	Haulm weight 2-1	ADW	0.0	1.3	QTL_whole-plant	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_DS_c7338_180	DS_c7338_180	SNP0927	0.8	0.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG902919_732	TOG902919_732	TOG902919_732	1.4	1.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_RN8C09	RN8C09	AS1RN08C09	12.5	12.5	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG905182	TOG905182	SNP0164_1	14.4	14.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG905182_531	TOG905182_531	SNP0164_2	15.8	15.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_DS_c5636_217	DS_c5636_217	SNP0832	20.0	20.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG916363_409	TOG916363_409	TOG916363_409	21.2	21.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG896251_774	TOG896251_774	Ah2n_TOG896251_1	23.3	23.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG899728_220	TOG899728_220	SNP0113	24.8	24.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_DS_c9436_517	DS_c9436_517	SNP1045	27.2	27.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Leg133	Leg133	Leg133	31.1	31.1	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG895760_948	TOG895760_948	SNP0031	32.2	32.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG896068_100	TOG896068_100	TOG896068_100	33.6	33.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Leg470	Leg470	Leg470	34.9	34.9	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_LegTC811	LegTC811	LegTC811	40.5	40.5	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TC11E04	TC11E04	Ah2TC11E04	42.0	42.0	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG903841_1059	TOG903841_1059	TOG903841_1059	43.5	43.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Leg729	Leg729	Leg729	45.0	45.0	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_PM238	PM238	PM238	46.3	46.3	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Leg225	Leg225	Leg225	47.6	47.6	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_SD_c5693p296vAG	SD_c5693p296vAG	SD_c5693p296vAG	48.2	48.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG902935_739	TOG902935_739	TOG902935_739	48.2	48.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG897323_947	TOG897323_947	TOG897323_947	50.2	50.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Seed weight 4-1	Seed weight 4-1	Log_10-SW_2009b	50.7	56.5	QTL_seed	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_DS_c2626_285	DS_c2626_285	SNP0572	50.8	50.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG897323_439	TOG897323_439	TOG897323_439	51.1	51.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Leg043	Leg043	Leg043	51.4	51.4	size polymorphism of PCR product	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_SD_c7090p176vCT	SD_c7090p176vCT	SD_c7090p176vCT	52.1	52.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_DS_c1119_235	DS_c1119_235	SNP0283	52.8	52.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Leg223	Leg223	Leg223	53.5	53.5	size polymorphism of PCR product	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Leg301	Leg301	Leg301	54.2	54.2	STS	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TC3G01	TC3G01	Ah1TC03G01	54.2	54.2	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Seq15F12	Seq15F12	pPGSSeq15F12	57.9	57.9	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_PM3	PM3	PM003	70.5	70.5	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Seq18A5	Seq18A5	pPGSSeq18A05	72.4	72.4	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Leg181	Leg181	Leg181	75.6	75.6	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG897609_289	TOG897609_289	TOG897609_289	76.6	76.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_DS_c1067_409	DS_c1067_409	SNP0262	77.3	77.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG908531_1103	TOG908531_1103	Ah2n_TOG908531_1	78.2	78.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_SD_c134p1081vCG	SD_c134p1081vCG	SD_c134p1081vCG	80.0	80.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Leg4Gm	Leg4Gm	Leg004Gm	80.7	80.7	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Ah30	Ah30	Ah030	81.5	81.5	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_DS_c10238_101	DS_c10238_101	DurSNP_c10238	81.5	81.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG905123_186	TOG905123_186	SNP0163	82.5	82.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_DS_c3455_472	DS_c3455_472	DurSNP_c3455	84.6	84.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG902879_117	TOG902879_117	TOG902879_117	85.9	85.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG897269_422	TOG897269_422	Ah2n_TOG897269_2	88.6	88.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG894844_638	TOG894844_638	SNP0017	90.8	90.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_DS_c525_514	DS_c525_514	SNP0801	91.7	91.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Leg236	Leg236	Leg236	93.9	93.9	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Leg237	Leg237	Leg237	97.5	97.5	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG906764_196	TOG906764_196	SNP0176	100.6	100.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG908642_255	TOG908642_255	TOG908642_255	101.3	101.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_SD_c4718p224vCG	SD_c4718p224vCG	SD_c4718p224vCG	105.3	105.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG903957_763	TOG903957_763	SNP0153	107.3	107.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG923561_536	TOG923561_536	SNP0219	108.1	108.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Leg066	Leg066	Leg066	111.4	111.4	size polymorphism of PCR product	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_LegTC987	LegTC987	LegTC987	112.0	112.0	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TC7E04	TC7E04	Ah2TC07E04	113.8	113.8	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG898437_81	TOG898437_81	SNP0087	115.6	115.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG894308_1403	TOG894308_1403	TOG894308_1403	118.0	118.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_RGA22	RGA22	AS1RN36P2E06	119.7	119.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_DS_c6953_744	DS_c6953_744	SNP0914	121.4	121.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_DS_c6812_226	DS_c6812_226	DurSNP_c6812	122.0	122.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_TOG894287_381	TOG894287_381	SNP0008	123.2	123.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_DS_c1977_844	DS_c1977_844	SNP0492	125.6	125.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_DS_c5040_483	DS_c5040_483	SNP0786	126.2	126.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A03	A03	0.0	126.8	AA_A.duranensis_x_A.stenosperma_d_A03_Leg188	Leg188	Leg188	126.8	126.8	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_RGA2	RGA2	AS1RM11P1G07	0.0	0.0	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_SD_c79p296vAG	SD_c79p296vAG	SD_c79p296vAG	0.8	0.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_DS_c6358_532	DS_c6358_532	DurSNP_c6358	1.5	1.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_gi-338	gi-338	GI-30419338	3.5	3.5	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TOG903803_379	TOG903803_379	TOG903803_379	4.8	4.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_DS_c1785_157	DS_c1785_157	SNP0458	6.3	6.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TOG895545_1356	TOG895545_1356	TOG895545_1356	7.6	7.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TOG899297_685	TOG899297_685	SNP0097_1	8.2	8.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TOG899297	TOG899297	SNP0097_2	8.9	8.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TC7G10	TC7G10	Ah2TC07G10	11.9	11.9	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TOG930652	TOG930652	SNP0225_1	12.5	12.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TOG930652_303	TOG930652_303	SNP0225_2	13.4	13.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_SD_c4761p345vAG	SD_c4761p345vAG	SD_c4761p345vAG	14.9	14.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_SD_c1934p146vCG	SD_c1934p146vCG	SD_c1934p146vCG	15.5	15.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TC11B04	TC11B04	Ah2TC11B04	17.2	17.2	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Specific leaf area 1-4	Specific leaf area 1-4	Log_SLA_120	17.2	19.8	QTL_leaf-stem	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Leg14MGm	Leg14MGm	Leg014MGm.1	19.8	19.8	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Ah-229	Ah-229	Ah-229	21.4	21.4	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Leg152	Leg152	Leg152	22.1	22.1	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TOG898304_485	TOG898304_485	TOG898304_485	24.9	24.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_DS_c1865_177	DS_c1865_177	SNP0472	25.2	25.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TOG898304_670	TOG898304_670	TOG898304_670	25.5	25.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Leg136	Leg136	Leg136	26.9	26.9	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_DS_c5628_94	DS_c5628_94	SNP0831	29.9	29.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Plant height 3-1	Plant height 3-1	MSH	30.1	33.6	QTL_whole-plant	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TC5A07	TC5A07	Ah1TC05A07	30.6	30.6	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_DS_c8849_670	DS_c8849_670	SNP1015	31.3	31.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Leaf chlorophyll 1-6	Leaf chlorophyll 1-6	Log_SCMR_120	31.6	35.1	QTL_organic	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Peanut root-knot nematode 1-7	Peanut root-knot nematode 1-7	Log_EGR_2011	32.5	42.5	QTL_nematode	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_gi-832	gi-832	GI-30419832	33.5	33.5	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_SD_c964p678vCT	SD_c964p678vCT	SD_c964p678vCT	34.9	34.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_RN5H02	RN5H02	AS1RN05H02	35.6	35.6	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TOG901166	TOG901166	Ah2n_TOG901166_1	36.3	36.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Pollen viability 1-1	Pollen viability 1-1	PV	36.3	38.5	QTL_miscellaneous	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TOG906490	TOG906490	SNP0172	36.9	36.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_PM120	PM120	PM120	37.8	37.8	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Leg050	Leg050	Leg050	39.1	39.1	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Leg270	Leg270	Leg270	40.4	40.4	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TOG919337_452	TOG919337_452	TOG919337_452	41.3	41.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TOG902630_597	TOG902630_597	TOG902630_597	41.9	41.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TOG933994_650	TOG933994_650	Ah2n_TOG933994_2	42.5	42.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Leg451	Leg451	Leg451	49.5	49.5	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_CP02B03	CP02B03	CP02B03	52.8	52.8	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_AD25F09-TC5	AD25F09-TC5	Ad25F09-TC5	54.5	54.5	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_DS_c1737_1033	DS_c1737_1033	SNP0451	56.5	56.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Ah-408	Ah-408	Ah-408	59.2	59.2	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_DS_c12399_183	DS_c12399_183	SNP0323	61.1	61.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Leg062	Leg062	Leg062	64.7	64.7	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Leg461	Leg461	Leg461	66.3	66.3	STS	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_Peanut root-knot nematode 1-4	Peanut root-knot nematode 1-4	GI_2013	70.6	78.3	QTL_nematode	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_TOG902872_732	TOG902872_732	TOG902872_732	71.0	71.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_RN12E01	RN12E01	AS1RN12E01	73.8	73.8	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A04	A04	0.0	83.2	AA_A.duranensis_x_A.stenosperma_d_A04_DS_c1137_464	DS_c1137_464	SNP0290	83.2	83.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG896882_29	TOG896882_29	SNP0062_1	0.0	0.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG896882	TOG896882	SNP0062_2	0.6	0.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_DS_c11456_172	DS_c11456_172	SNP0294	1.8	1.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG896097_531	TOG896097_531	TOG896097_531	3.5	3.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_Root weight per plant 1-1	Root weight per plant 1-1	Log_RDW	3.5	10.0	QTL_root	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_Leg231	Leg231	Leg231	10.0	10.0	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG895871_280	TOG895871_280	SNP0035	10.7	10.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG898026_711	TOG898026_711	SNP0083	11.5	11.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_Branch length, lateral 1-2	Branch length, lateral 1-2	LBL	12.6	22.5	QTL_leaf-stem	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG895690_378	TOG895690_378	SNP0029	19.5	19.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG900080_84	TOG900080_84	SNP0117	19.5	19.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_RGA28	RGA28	AS1RN25P1D07	22.5	22.5	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_DS_c6795_188	DS_c6795_188	SNP0903	24.5	24.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG896907	TOG896907	SNP0063	25.1	25.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_Leg224	Leg224	Leg224	28.8	28.8	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_Leg175	Leg175	Leg175	33.3	33.3	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG905638	TOG905638	SNP0171	38.6	38.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG901225_106	TOG901225_106	SNP0129	40.0	40.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_Flower_color	Flower_color	Flower_color	43.7	43.7	phenotypic marker	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG898231_169	TOG898231_169	Ah2n_TOG898231_1	48.6	48.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TC1D12	TC1D12	Ah1TC01D12	49.3	49.3	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG896943_489	TOG896943_489	SNP0066	49.9	49.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG916452_734	TOG916452_734	SNP0205	50.6	50.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG899382_109	TOG899382_109	TOG899382_109	51.3	51.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG904000_200	TOG904000_200	SNP0156	52.0	52.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_Leg218	Leg218	Leg218	55.9	55.9	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG902063_90	TOG902063_90	SNP0139	57.2	57.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG899661_476	TOG899661_476	SNP0108	58.5	58.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG902768_1093	TOG902768_1093	SNP0144	59.4	59.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG915746_463	TOG915746_463	SNP0201_1	61.1	61.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG915746	TOG915746	SNP0201_2	63.2	63.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_DS_c9200_476	DS_c9200_476	SNP1030	64.6	64.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_RGA32	RGA32	AS2RM08P1B10	64.6	64.6	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_DS_c2437_540	DS_c2437_540	SNP0554	65.3	65.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_Ah3	Ah3	Ah003	66.0	66.0	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_IPAHM105	IPAHM105	IPAHM105	66.0	66.0	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_PM45	PM45	PM045	66.0	66.0	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TC22H12	TC22H12	Ah3TC22H12	66.0	66.0	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TC6E01	TC6E01	Ah1TC06E01	66.0	66.0	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_DS_c3924_288	DS_c3924_288	SNP0691	71.5	71.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_Leg088	Leg088	Leg088	72.9	72.9	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_DS_c3097_107	DS_c3097_107	SNP0617_1	74.5	74.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_DS_c3097_107	DS_c3097_107	SNP0617_2	74.5	74.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG895759_618	TOG895759_618	Ah2n_TOG895759_1	78.3	78.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TC7D03	TC7D03	Ah2TC07D03	81.3	81.3	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_DS_c835_324	DS_c835_324	DurSNP_c835	83.1	83.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_Seeds per plant 3-2	Seeds per plant 3-2	SN_2009b	83.1	88.8	QTL_yield	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_Plant height 3-2	Plant height 3-2	MSH	88.7	90.7	QTL_whole-plant	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_DS_c6779_681	DS_c6779_681	DurSNP_c6779	88.8	88.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_DS_c5288_353	DS_c5288_353	SNP0804	89.7	89.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG894098_223	TOG894098_223	TOG894098_223	90.4	90.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG938908_728	TOG938908_728	TOG938908_728	93.9	93.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_Ah4-20	Ah4-20	Ah4-020	96.4	96.4	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_DS_c8405_333	DS_c8405_333	SNP0989	98.0	98.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_Seq10H1A	Seq10H1A	pPGSSeq10H01a	101.0	101.0	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG910249_784	TOG910249_784	Ah2n_TOG910249_2	102.1	102.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_TOG903716_79	TOG903716_79	Ah2n_TOG903716_1	106.6	106.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_DS_c3236_729	DS_c3236_729	SNP0626	107.3	107.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_gi-385	gi-385	GI-30419385	107.9	107.9	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A05	A05	0.0	116.3	AA_A.duranensis_x_A.stenosperma_d_A05_RN13G08	RN13G08	AS1RN13G08	116.3	116.3	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Leg12MGm	Leg12MGm	Leg012MGm	0.0	0.0	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG900104	TOG900104	SNP0118	1.9	1.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_DS_c6996_330	DS_c6996_330	SNP0916	2.5	2.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG905504_569	TOG905504_569	Ah2n_TOG905504_1	3.1	3.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_DS_c7515_308	DS_c7515_308	SNP0942	7.2	7.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG902716_115	TOG902716_115	SNP0143	9.2	9.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_DS_c9452_220	DS_c9452_220	SNP1047	10.5	10.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Leg356	Leg356	Leg356	11.8	11.8	size polymorphism of PCR product	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TC42A02	TC42A02	Ah3TC42A02	15.1	15.1	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Leg203	Leg203	Leg203	16.2	16.2	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Seq19F4	Seq19F4	pPGSSeq19F04	27.7	27.7	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Leg081	Leg081	Leg081	28.5	28.5	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_AC2H11	AC2H11	Ah2AC02H11	29.1	29.1	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG906662_260	TOG906662_260	TOG906662_260	30.0	30.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TC35F05	TC35F05	Ah3TC35F05	30.8	30.8	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Leg11MGm	Leg11MGm	Leg011MGm	31.4	31.4	size polymorphism of PCR product	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_SD_c590p76vAG	SD_c590p76vAG	SD_c590p76vAG	32.0	32.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG910860_347	TOG910860_347	TOG910860_347	32.8	32.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG960456_632	TOG960456_632	Ah2n_TOG960456_1	34.4	34.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG923884_236	TOG923884_236	SNP0221	34.8	34.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG960456	TOG960456	Ah2n_TOG960456_1	35.2	35.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_SD_c90p260vAG	SD_c90p260vAG	SD_c90p260vAG	37.7	37.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Seq4H6	Seq4H6	pPGPSeq04H06	38.5	38.5	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_SD_c90p404vGT	SD_c90p404vGT	SD_c90p404vGT	38.7	38.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_SD_c90p344vAG	SD_c90p344vAG	SD_c90p344vAG	38.9	38.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Leg186	Leg186	Leg186	39.1	39.1	size polymorphism of PCR product	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG920755_239	TOG920755_239	SNP0215	41.7	41.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_RN0x727	RN0x727	AS1RN0x727.1	44.3	44.3	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG894754_222	TOG894754_222	TOG894754_222	45.0	45.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Seq15D3	Seq15D3	pPGSSeq15D03	46.4	46.4	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Leg346	Leg346	Leg346	47.0	47.0	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Haulm weight 2-2	Haulm weight 2-2	ADW	47.0	61.4	QTL_whole-plant	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Plant weight 2-1	Plant weight 2-1	TB	47.0	61.4	QTL_whole-plant	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TC7C06	TC7C06	Ah2TC07C06	61.4	61.4	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Root weight per plant 1-2	Root weight per plant 1-2	Log_RDW	62.1	64.4	QTL_root	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG896979_290	TOG896979_290	SNP0067	63.0	63.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_SD_c5566p191vGT	SD_c5566p191vGT	SD_c5566p191vGT	64.6	64.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_SD_c1246p142vCT	SD_c1246p142vCT	SD_c1246p142vCT	67.9	67.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_SD_c1246p239vAG	SD_c1246p239vAG	SD_c1246p239vAG	68.4	68.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Leg23MGm	Leg23MGm	Leg023MGm	68.9	68.9	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG910616_176	TOG910616_176	TOG910616_176	69.8	69.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Seq15D6	Seq15D6	pPGSSeq15D06	71.1	71.1	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_PM24	PM24	PM024	76.4	76.4	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Leg092	Leg092	Leg092	77.9	77.9	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Leg031	Leg031	Leg031	78.8	78.8	STS	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_DS_c4237_614	DS_c4237_614	SNP0718	81.8	81.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TC41C11	TC41C11	Ah3TC41C11	81.8	81.8	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Leaf chlorophyll 1-7	Leaf chlorophyll 1-7	Log_SCMR_120	82.2	91.2	QTL_organic	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_RN0x06	RN0x06	AS1RN0x006	84.2	84.2	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_DS_c14540_135	DS_c14540_135	SNP0394	85.4	85.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_IPAHM-171a	IPAHM-171a	IPAHM171a	87.2	87.2	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Leaf chlorophyll 1-2	Leaf chlorophyll 1-2	Log_SCMR_40	87.2	91.2	QTL_organic	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_DS_c9222_228	DS_c9222_228	SNP1033	91.2	91.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG894965_165	TOG894965_165	TOG894965_165	92.0	92.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG897521_949	TOG897521_949	SNP0076	97.8	97.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_DS_c723_423	DS_c723_423	SNP0920	100.1	100.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG905231_25	TOG905231_25	TOG905231_25	103.3	103.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Seq18G1	Seq18G1	pPGSSeq18G01	105.6	105.6	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_gi-936	gi-936	GI-30419936	106.3	106.3	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_RN0x681	RN0x681	AS1RN0x681	107.6	107.6	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG901729_360	TOG901729_360	SNP0131	110.0	110.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_Peg length 2-1	Peg length 2-1	PL	112.6	117.5	QTL_pod	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG896309_1001	TOG896309_1001	TOG896309_1001	114.2	114.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_TOG895571	TOG895571	SNP0027	115.0	115.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_DS_c5466_135	DS_c5466_135	SNP0817	117.5	117.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A06	A06	0.0	121.0	AA_A.duranensis_x_A.stenosperma_d_A06_DS_c2184_437	DS_c2184_437	SNP0518	121.0	121.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_CP02D05	CP02D05	CP02D05	0.0	0.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_DS_c2845_1151	DS_c2845_1151	SNP0595	1.3	1.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_RN13D04	RN13D04	AS1RN13D04	1.9	1.9	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_Leg196	Leg196	Leg196.1	6.8	6.8	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG895030_191	TOG895030_191	SNP0020	11.1	11.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_SD_c291p545vAG	SD_c291p545vAG	SD_c291p545vAG	11.9	11.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_Leg228	Leg228	Leg228	12.5	12.5	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG895333	TOG895333	SNP0023	14.2	14.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG919227_560	TOG919227_560	SNP0210	15.0	15.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_Leaf chlorophyll 1-3	Leaf chlorophyll 1-3	Log_SCMR_40	15.0	20.5	QTL_organic	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG897513_224	TOG897513_224	TOG897513_224	16.2	16.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_DS_c4177_150	DS_c4177_150	SNP0713	17.4	17.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TC23E04_1	TC23E04_1	Ah3TC23E04b	18.7	18.7	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_SD_c450p1245vCT	SD_c450p1245vCT	SD_c450p1245vCT	19.3	19.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG897694_664	TOG897694_664	Ah2n_TOG897694_2	22.7	22.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG898285_207	TOG898285_207	TOG898285_207	23.3	23.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG895747_87	TOG895747_87	Ah2n_TOG895747_2	25.7	25.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG922733_189	TOG922733_189	SNP0217_1	26.9	26.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_DS_c253_125	DS_c253_125	SNP0564	28.9	28.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG922733	TOG922733	SNP0217_2	30.1	30.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG906318_1116	TOG906318_1116	TOG906318_1116	31.3	31.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG895412_365	TOG895412_365	Ah2n_TOG895412_1	32.7	32.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG915207_884	TOG915207_884	SNP0196	34.4	34.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG908150_56	TOG908150_56	TOG908150_56	37.6	37.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_SD_c24p676vCT	SD_c24p676vCT	SD_c24p676vCT	41.3	41.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_Seq3B8	Seq3B8	pPGPSeq03B08	42.9	42.9	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TC4G10	TC4G10	Ah1TC04G10	45.1	45.1	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_DS_c4763_792	DS_c4763_792	SNP0766	45.9	45.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_PM204	PM204	PM204	54.2	54.2	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG896888_311	TOG896888_311	TOG896888_311	56.5	56.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_Seed weight 4-4	Seed weight 4-4	Log_10-SW_2010b	58.9	71.5	QTL_seed	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_Seeds per plant 3-6	Seeds per plant 3-6	Log_SN_2010b 	59.6	69.3	QTL_yield	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG904989_542	TOG904989_542	TOG904989_542	64.9	64.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_Leg24MGm	Leg24MGm	Leg024MGm	69.6	69.6	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_DS_c5152_109	DS_c5152_109	SNP0795	77.3	77.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_Specific leaf area 1-3	Specific leaf area 1-3	Log_SLA_60	79.9	87.6	QTL_leaf-stem	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_DS_c7479_398	DS_c7479_398	SNP0940	82.1	82.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TC6G09	TC6G09	Ah1TC06G09	84.3	84.3	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_DS_c3474_556	DS_c3474_556	SNP0650	85.0	85.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG947627_598	TOG947627_598	TOG947627_598	88.7	88.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_DS_c5277_40	DS_c5277_40	SNP0803	89.4	89.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_RGA1	RGA1	AS1RM11P1B11	90.7	90.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A07	A07	0.0	92.2	AA_A.duranensis_x_A.stenosperma_d_A07_TOG896746_193	TOG896746_193	TOG896746_193	92.2	92.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_DS_c1348_818	DS_c1348_818	SNP0360	0.0	0.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TC4G06	TC4G06	Ah1TC04G06	0.0	0.0	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_DS_c17036_92	DS_c17036_92	SNP0443	0.6	0.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_DS_c20567_70	DS_c20567_70	SNP0501	1.2	1.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_SD_c2983p283vAG	SD_c2983p283vAG	SD_c2983p283vAG	3.5	3.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_Leg200	Leg200	Leg200	13.9	13.9	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG905363_302	TOG905363_302	SNP0166_1	18.0	18.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG905363	TOG905363	SNP0166_2	18.8	18.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_CP09D07	CP09D07	CP09D07	20.4	20.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_CPT02C10	CPT02C10	CPT02C10	26.1	26.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_CP04D05	CP04D05	CP04D05	29.6	29.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_Leg929	Leg929	Leg929	32.8	32.8	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG913042_186	TOG913042_186	TOG913042_186	35.3	35.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_Seq15C10	Seq15C10	pPGSSeq15C10	35.4	35.4	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG901869_982	TOG901869_982	TOG901869_982	35.9	35.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_Leg924	Leg924	Leg924	37.4	37.4	size polymorphism of PCR product	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG898508_911	TOG898508_911	Ah2n_TOG898508_1	37.4	37.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG905464_387	TOG905464_387	TOG905464_387	45.6	45.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG902563_80	TOG902563_80	SNP0140	50.9	50.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_Leg654	Leg654	Leg654.2	51.9	51.9	size polymorphism of PCR product	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TC7A02	TC7A02	Ah2TC07A02	51.9	51.9	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG897887_418	TOG897887_418	TOG897887_418	56.0	56.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_Leg305	Leg305	Leg305	57.9	57.9	size polymorphism of PCR product	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG897884_240	TOG897884_240	SNP0081	58.9	58.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG912656_539	TOG912656_539	TOG912656_539	59.9	59.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_PM32	PM32	PM032	60.9	60.9	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_Leg070	Leg070	Leg070	63.0	63.0	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG899744_355	TOG899744_355	SNP0115	66.4	66.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_DS_c5583_69	DS_c5583_69	SNP0826	67.2	67.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_DS_c3540_452	DS_c3540_452	SNP0657	68.0	68.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_SD_c1911p594vAC	SD_c1911p594vAC	SD_c1911p594vAC	69.5	69.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_Leg17MGm	Leg17MGm	Leg017MGm	71.8	71.8	STS	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_ML1G04	ML1G04	AS1ML01G04	74.1	74.1	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_SD_c603p100vAG	SD_c603p100vAG	SD_c603p100vAG	78.1	78.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_DS_c9031_272	DS_c9031_272	SNP1022	80.3	80.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG902140_107	TOG902140_107	TOG902140_107	84.7	84.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TC20B05	TC20B05	Ah3TC20B05	86.2	86.2	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_RGA19	RGA19	AS1RN33P1D02	88.2	88.2	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TC6H03	TC6H03	Ah1TC06H03	89.1	89.1	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG918756_141	TOG918756_141	SNP0208	90.8	90.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG895956_322	TOG895956_322	TOG895956_322	92.5	92.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_Branching, lateral 1-1	Branching, lateral 1-1	NLB	92.9	97.1	QTL_leaf-stem	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TC22C01	TC22C01	Ah3TC22C01	95.3	95.3	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG895072_395	TOG895072_395	SNP0022	97.1	97.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG904488_349	TOG904488_349	SNP0159	98.0	98.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG898978_1064	TOG898978_1064	SNP0094	98.6	98.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_SD_c1508p231vAG	SD_c1508p231vAG	SD_c1508p231vAG	102.7	102.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TC1E05	TC1E05	Ah1TC01E05	104.7	104.7	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG922166_239	TOG922166_239	TOG922166_239	105.4	105.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_gi_716	gi_716	GI-30419716	108.2	108.2	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_Seq2B9	Seq2B9	pPGPSeq02B09	108.6	108.6	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_TOG896197	TOG896197	SNP0043	108.9	108.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_Leg033	Leg033	Leg033	110.1	110.1	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A08	A08	0.0	110.7	AA_A.duranensis_x_A.stenosperma_d_A08_SD_c1292p157vCT	SD_c1292p157vCT	SD_c1292p157vCT	110.7	110.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_DS_c4493_509	DS_c4493_509	SNP0738	0.0	0.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_DS_c1784_908	DS_c1784_908	SNP0457	0.6	0.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Specific leaf area 1-5	Specific leaf area 1-5	Log_SLA_120	2.4	5.3	QTL_leaf-stem	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_DS_c6563_104	DS_c6563_104	SNP0884	2.5	2.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG895054_163	TOG895054_163	SNP0021	3.9	3.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG908172_214	TOG908172_214	TOG908172_214	5.2	5.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG896966_310	TOG896966_310	Ah2n_TOG896966_1	6.5	6.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_DS_c11394_113	DS_c11394_113	SNP0292	7.3	7.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_RGA21	RGA21	AS1RN36P2B01	10.3	10.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Seeds per plant 3-1	Seeds per plant 3-1	SN_2009a 	14.6	17.6	QTL_yield	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG894454_341	TOG894454_341	SNP0013	15.0	15.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Leg122	Leg122	Leg122	15.8	15.8	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TC1D02	TC1D02	Ah1TC01D02	17.7	17.7	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG908289_228	TOG908289_228	TOG908289_228	18.4	18.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Seq18G9	Seq18G9	pPGSSeq18G09	19.4	19.4	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_RM13A12	RM13A12	AS2RM13A12	22.7	22.7	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Leg100	Leg100	Leg100	24.0	24.0	dCAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG922990_221	TOG922990_221	TOG922990_221	24.0	24.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG894357	TOG894357	Ah2n_TOG894357_2	24.9	24.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG896740_1024	TOG896740_1024	Ah2n_TOG896740_2	25.8	25.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG899054_560	TOG899054_560	TOG899054_560	27.0	27.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG899159	TOG899159	SNP0096	28.2	28.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG896007_492	TOG896007_492	SNP0038	29.6	29.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_CP02C11	CP02C11	CP02C11	31.7	31.7	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG895578	TOG895578	SNP0028	33.3	33.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_DS_c1727_427	DS_c1727_427	SNP0446	34.0	34.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_DS_c3667_602	DS_c3667_602	SNP0672	34.7	34.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_SD_c360p529vAG	SD_c360p529vAG	SD_c360p529vAG	36.8	36.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Leg732	Leg732	Leg732	38.2	38.2	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Leg199	Leg199	Leg199.1	40.3	40.3	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Peanut root-knot nematode 1-2	Peanut root-knot nematode 1-2	GI_2011	40.3	42.1	QTL_nematode	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Peanut root-knot nematode 1-5	Peanut root-knot nematode 1-5	GI_2013	40.3	42.1	QTL_nematode	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Peanut root-knot nematode 1-8	Peanut root-knot nematode 1-8	Log_EGR_2011	40.3	42.1	QTL_nematode	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_SD_c2722p1014vAT	SD_c2722p1014vAT	SD_c2722p1014vAT	41.5	41.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG895448_639	TOG895448_639	SNP0025	41.5	41.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Leg1Gm	Leg1Gm	Leg001Gm.1	42.1	42.1	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Seed weight 4-2	Seed weight 4-2	Log_10-SW_2010a	42.1	45.3	QTL_seed	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG896362_355	TOG896362_355	SNP0047	45.3	45.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Seeds per plant 3-4	Seeds per plant 3-4	Log_SN_2010a 	45.3	50.3	QTL_yield	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Seeds per plant 3-7	Seeds per plant 3-7	Log_SN_2010b 	45.3	50.3	QTL_yield	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_SD_c2057p484vGT	SD_c2057p484vGT	SD_c2057p484vGT	50.3	50.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_DS_c13019_307	DS_c13019_307	SNP0346	51.9	51.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG935579_571	TOG935579_571	SNP0226	52.7	52.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG896942_133	TOG896942_133	SNP0065	53.9	53.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_DS_c14276_456	DS_c14276_456	SNP0385	55.1	55.1	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Haulm weight 2-3	Haulm weight 2-3	ADW	59.2	66.0	QTL_whole-plant	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Plant weight 2-2	Plant weight 2-2	TB	60.5	65.6	QTL_whole-plant	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_DS_c2682_118	DS_c2682_118	SNP0577	62.3	62.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_TOG896078_413	TOG896078_413	TOG896078_413	63.5	63.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Seq14G3	Seq14G3	pPGSSeq14G03	65.7	65.7	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_DS_c6612_152	DS_c6612_152	SNP0887	67.2	67.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_DS_c1696_1055	DS_c1696_1055	SNP0441	67.8	67.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Leg322	Leg322	Leg322	68.4	68.4	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Specific leaf area 1-2	Specific leaf area 1-2	Log_SLA_40	68.7	76.4	QTL_leaf-stem	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_DS_c33996_97	DS_c33996_97	SNP0640	73.3	73.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_SD_c3430p305vAG	SD_c3430p305vAG	SD_c3430p305vAG	74.0	74.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_SD_c837p1024vAC	SD_c837p1024vAC	SD_c837p1024vAC	77.4	77.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_Lec-1	Lec-1	Lec-1	79.6	79.6	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A09	A09	0.0	81.7	AA_A.duranensis_x_A.stenosperma_d_A09_DS_c18439_78	DS_c18439_78	SNP0467	81.7	81.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_Leg7Gm	Leg7Gm	Leg007Gm	0.0	0.0	STS	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TOG906504_678	TOG906504_678	SNP0173	4.3	4.3	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_DS_c11518_507	DS_c11518_507	SNP0297	15.0	15.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TOG908880_440	TOG908880_440	TOG908880_440	15.9	15.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_DS_c4018_591	DS_c4018_591	SNP0703	17.5	17.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_DS_c22445_175	DS_c22445_175	SNP0528	20.6	20.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TOG899594_878	TOG899594_878	SNP0105	21.9	21.9	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_DS_c1927_1130	DS_c1927_1130	SNP0488	22.6	22.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_RGA30	RGA30	AS2RM09P1B08	25.5	25.5	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_DS_c3554_248	DS_c3554_248	SNP0658	31.4	31.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TC1G04	TC1G04	Ah1TC01G04	32.2	32.2	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TOG906843_1052	TOG906843_1052	TOG906843_1052	33.0	33.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TC31C09	TC31C09	Ah3TC31C09	39.4	39.4	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_Branching, lateral 1-2	Branching, lateral 1-2	NLB	39.4	42.9	QTL_leaf-stem	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_Seeds per plant 3-5	Seeds per plant 3-5	Log_SN_2010a 	42.1	45.2	QTL_yield	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_IPAHM-689	IPAHM-689	IPAHM689	42.9	42.9	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_Seed weight 4-3	Seed weight 4-3	Log_10-SW_2010a	42.9	45.2	QTL_seed	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TC23F04	TC23F04	Ah3TC23F04	44.4	44.4	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TOG899668	TOG899668	SNP0109_1	44.4	44.4	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TOG899668_1115	TOG899668_1115	SNP0109_2	44.8	44.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TOG915802_198	TOG915802_198	SNP0202	45.2	45.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_Leg160	Leg160	Leg160	47.0	47.0	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_Leaf chlorophyll 1-4	Leaf chlorophyll 1-4	Log_SCMR_40	47.2	50.8	QTL_organic	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_SD_c1259p293vAC	SD_c1259p293vAC	SD_c1259p293vAC	49.0	49.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_SD_c1842p722vCT	SD_c1842p722vCT	SD_c1842p722vCT	52.0	52.0	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_Root weight/Haulm weight 1-3	Root weight/Haulm weight 1-3	Log_RRA	53.8	59.3	QTL_whole-plant	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TOG946792	TOG946792	SNP0230	55.6	55.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TC7H11	TC7H11	Ah2TC07H11	57.1	57.1	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_Leg33MGm	Leg33MGm	Leg033MGm	59.8	59.8	size polymorphism of PCR product	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_Plant height 3-3	Plant height 3-3	MSH	60.9	68.8	QTL_whole-plant	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_SD_c1015p449vAG	SD_c1015p449vAG	SD_c1015p449vAG	63.2	63.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_Leg242	Leg242	Leg242	63.8	63.8	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_SD_c252p754vAG	SD_c252p754vAG	SD_c252p754vAG	63.8	63.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_DS_c10522_129	DS_c10522_129	SNP0254	65.8	65.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_Leg182	Leg182	Leg182.1	69.7	69.7	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TOG902928_388	TOG902928_388	SNP0147	71.5	71.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_Leaf chlorophyll 1-5	Leaf chlorophyll 1-5	Log_SCMR_60	71.5	74.7	QTL_organic	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TOG896385_429	TOG896385_429	Ah2n_TOG896385_1	74.7	74.7	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_DS_c5696_55	DS_c5696_55	SNP0838	75.8	75.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_DS_c5609_294	DS_c5609_294	SNP0828	76.5	76.5	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_Leg128	Leg128	Leg128	77.9	77.9	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_DS_c12368_110	DS_c12368_110	SNP0321	79.8	79.8	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_RN2F12	RN2F12	AS1RN02F12	79.8	79.8	microsatellite	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_Leg208	Leg208	Leg208.1	82.1	82.1	CAPS	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TOG910732_213	TOG910732_213	TOG910732_213	83.6	83.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TOG899617_1026	TOG899617_1026	SNP0107_1	84.6	84.6	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_TOG899617	TOG899617	SNP0107_2	85.2	85.2	SNP	0
+AA_A.duranensis_x_A.stenosperma_d_A10	A10	0.0	88.7	AA_A.duranensis_x_A.stenosperma_d_A10_SD_c1665p139vAG	SD_c1665p139vAG	SD_c1665p139vAG	88.7	88.7	SNP	0
