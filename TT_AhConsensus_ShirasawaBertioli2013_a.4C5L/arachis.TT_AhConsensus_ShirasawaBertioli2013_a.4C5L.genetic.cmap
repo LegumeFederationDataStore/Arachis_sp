@@ -27,8 +27,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_A01	A01	0	183.767	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_A01	A01	0	183.767	TT_AhConsensus_ShirasawaBertioli2013_a_A01_IPAHM177_c1	IPAHM177_c1		64.541	64.541	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A01	A01	0	183.767	TT_AhConsensus_ShirasawaBertioli2013_a_A01_AhTE0543	AhTE0543		65.447	65.447	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A01	A01	0	183.767	TT_AhConsensus_ShirasawaBertioli2013_a_A01_Seq16G08_c1	Seq16G08_c1		65.508	65.508	SSR	0
-
-0	0	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A02	A02	0	78.64	TT_AhConsensus_ShirasawaBertioli2013_a_A02_AHGS2490_c1	AHGS2490_c1		2.216	2.216	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A02	A02	0	78.64	TT_AhConsensus_ShirasawaBertioli2013_a_A02_AHGS1677_c1	AHGS1677_c1		7.966	7.966	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A02	A02	0	78.64	TT_AhConsensus_ShirasawaBertioli2013_a_A02_499367	499367		11.142	11.142	marker	0
@@ -154,7 +152,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_A02	A02	0	78.64	TT_AhConsensus_ShirasawaB
 TT_AhConsensus_ShirasawaBertioli2013_a_A02	A02	0	78.64	TT_AhConsensus_ShirasawaBertioli2013_a_A02_Ag39_c1	Ag39_c1		70.925	70.925	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A02	A02	0	78.64	TT_AhConsensus_ShirasawaBertioli2013_a_A02_Seq2F05_c1	Seq2F05_c1		76.971	76.971	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A02	A02	0	78.64	TT_AhConsensus_ShirasawaBertioli2013_a_A02_RI2A06_c1	RI2A06_c1	GM127	78.64	78.64	SSR	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_A03	A03	0	151.562	TT_AhConsensus_ShirasawaBertioli2013_a_A03_AHGS0291_c1	AHGS0291_c1		0	0	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A03	A03	0	151.562	TT_AhConsensus_ShirasawaBertioli2013_a_A03_AHGS1714	AHGS1714		6.262	6.262	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A03	A03	0	151.562	TT_AhConsensus_ShirasawaBertioli2013_a_A03_AHGS1511	AHGS1511		12.389	12.389	SSR	0
@@ -426,8 +423,7 @@ TT_AhConsensus_ShirasawaBertioli2013_a_A03	A03	0	151.562	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_A03	A03	0	151.562	TT_AhConsensus_ShirasawaBertioli2013_a_A03_AHGS2323_c3	AHGS2323_c3		140.918	140.918	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A03	A03	0	151.562	TT_AhConsensus_ShirasawaBertioli2013_a_A03_AHGS1986	AHGS1986		141.675	141.675	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A03	A03	0	151.562	TT_AhConsensus_ShirasawaBertioli2013_a_A03_AhTE0552_c1	AhTE0552_c1		142.868	142.868	transposon	0
-TT_AhConsensus_ShirasawaBertioli2013_a_A03	A03	0	151.562	TT_AhConsensus_ShirasawaBertioli2013_a_A03_AhTE0178_c1	AhTE0178_c1
-
+TT_AhConsensus_ShirasawaBertioli2013_a_A03	A03	0	151.562	TT_AhConsensus_ShirasawaBertioli2013_a_A03_AhTE0178_c1	AhTE0178_c1		151.562	151.562	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A04	A04	0	106.778	TT_AhConsensus_ShirasawaBertioli2013_a_A04_AHGS2793_c1	AHGS2793_c1		0	0	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A04	A04	0	106.778	TT_AhConsensus_ShirasawaBertioli2013_a_A04_AHS0075	AHS0075		2.944	2.944	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A04	A04	0	106.778	TT_AhConsensus_ShirasawaBertioli2013_a_A04_AHGS1955	AHGS1955		3.619	3.619	SSR	0
@@ -641,7 +637,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_A04	A04	0	106.778	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_A04	A04	0	106.778	TT_AhConsensus_ShirasawaBertioli2013_a_A04_AhTE0693	AhTE0693		96.813	96.813	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A04	A04	0	106.778	TT_AhConsensus_ShirasawaBertioli2013_a_A04_GM955	GM955		104.505	104.505	marker	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A04	A04	0	106.778	TT_AhConsensus_ShirasawaBertioli2013_a_A04_S118	S118		106.778	106.778	marker	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_A05	A05	0	126.011	TT_AhConsensus_ShirasawaBertioli2013_a_A05_AhTE0361	AhTE0361		0	0	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A05	A05	0	126.011	TT_AhConsensus_ShirasawaBertioli2013_a_A05_Leg231	Leg231		7.097	7.097	CAPS	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A05	A05	0	126.011	TT_AhConsensus_ShirasawaBertioli2013_a_A05_AHGS2791_c1	AHGS2791_c1		12.612	12.612	SSR	0
@@ -831,7 +826,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_A05	A05	0	126.011	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_A05	A05	0	126.011	TT_AhConsensus_ShirasawaBertioli2013_a_A05_GM667	GM667	GA96	93.266	93.266	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A05	A05	0	126.011	TT_AhConsensus_ShirasawaBertioli2013_a_A05_TC5C05_c1	TC5C05_c1	GM64	120.088	120.088	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A05	A05	0	126.011	TT_AhConsensus_ShirasawaBertioli2013_a_A05_Seq19D01	Seq19D01		126.011	126.011	marker	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_A06	A06	0	136.411	TT_AhConsensus_ShirasawaBertioli2013_a_A06_TC19A02_c1	TC19A02_c1		0	0	marker	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A06	A06	0	136.411	TT_AhConsensus_ShirasawaBertioli2013_a_A06_AHGS1727_c2	AHGS1727_c2		8.477	8.477	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A06	A06	0	136.411	TT_AhConsensus_ShirasawaBertioli2013_a_A06_AHGS1375_c1	AHGS1375_c1		14.231	14.231	SSR	0
@@ -1019,7 +1013,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_A06	A06	0	136.411	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_A06	A06	0	136.411	TT_AhConsensus_ShirasawaBertioli2013_a_A06_GM2536_c1	GM2536_c1		115.729	115.729	marker	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A06	A06	0	136.411	TT_AhConsensus_ShirasawaBertioli2013_a_A06_GM1916	GM1916		122.435	122.435	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A06	A06	0	136.411	TT_AhConsensus_ShirasawaBertioli2013_a_A06_PM210_c1	PM210_c1	GM408	136.411	136.411	SSR	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_A07	A07	0	167.002	TT_AhConsensus_ShirasawaBertioli2013_a_A07_AHGS1803_c1	AHGS1803_c1		0	0	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A07	A07	0	167.002	TT_AhConsensus_ShirasawaBertioli2013_a_A07_AhTE0025	AhTE0025		2.767	2.767	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A07	A07	0	167.002	TT_AhConsensus_ShirasawaBertioli2013_a_A07_AHGS1836	AHGS1836		13.55	13.55	SSR	0
@@ -1165,7 +1158,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_A07	A07	0	167.002	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_A07	A07	0	167.002	TT_AhConsensus_ShirasawaBertioli2013_a_A07_RM2D04	RM2D04		143.447	143.447	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A07	A07	0	167.002	TT_AhConsensus_ShirasawaBertioli2013_a_A07_TC6G09	TC6G09	GM69	143.727	143.727	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A07	A07	0	167.002	TT_AhConsensus_ShirasawaBertioli2013_a_A07_AHGS1830	AHGS1830		167.002	167.002	SSR	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_A08	A08	0	126.324	TT_AhConsensus_ShirasawaBertioli2013_a_A08_AHGS1270	AHGS1270		0	0	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A08	A08	0	126.324	TT_AhConsensus_ShirasawaBertioli2013_a_A08_AHGS1094_c1	AHGS1094_c1		1.648	1.648	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A08	A08	0	126.324	TT_AhConsensus_ShirasawaBertioli2013_a_A08_TC4G06	TC4G06	GM58	4.444	4.444	SSR	0
@@ -1333,7 +1325,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_A08	A08	0	126.324	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_A08	A08	0	126.324	TT_AhConsensus_ShirasawaBertioli2013_a_A08_AHGS3163_c2	AHGS3163_c2		125.65	125.65	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A08	A08	0	126.324	TT_AhConsensus_ShirasawaBertioli2013_a_A08_AHS2019	AHS2019		125.843	125.843	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A08	A08	0	126.324	TT_AhConsensus_ShirasawaBertioli2013_a_A08_AHGS1681_c1	AHGS1681_c1		126.324	126.324	SSR	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_A09	A09	0	126.543	TT_AhConsensus_ShirasawaBertioli2013_a_A09_GM1609	GM1609		0	0	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A09	A09	0	126.543	TT_AhConsensus_ShirasawaBertioli2013_a_A09_AhTE0815	AhTE0815		11.416	11.416	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A09	A09	0	126.543	TT_AhConsensus_ShirasawaBertioli2013_a_A09_AhTE0532	AhTE0532		12.397	12.397	transposon	0
@@ -1528,7 +1519,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_A09	A09	0	126.543	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_A09	A09	0	126.543	TT_AhConsensus_ShirasawaBertioli2013_a_A09_AHGS2613	AHGS2613		118.495	118.495	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A09	A09	0	126.543	TT_AhConsensus_ShirasawaBertioli2013_a_A09_IPAHM468	IPAHM468		119.419	119.419	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A09	A09	0	126.543	TT_AhConsensus_ShirasawaBertioli2013_a_A09_PM733_c1	PM733_c1		126.543	126.543	SSR	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_A10	A10	0	131.119	TT_AhConsensus_ShirasawaBertioli2013_a_A10_AHGS1803_c2	AHGS1803_c2		0	0	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A10	A10	0	131.119	TT_AhConsensus_ShirasawaBertioli2013_a_A10_AHGS1632	AHGS1632		16.767	16.767	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A10	A10	0	131.119	TT_AhConsensus_ShirasawaBertioli2013_a_A10_AhTE0797	AhTE0797		25.407	25.407	transposon	0
@@ -1701,7 +1691,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_A10	A10	0	131.119	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_A10	A10	0	131.119	TT_AhConsensus_ShirasawaBertioli2013_a_A10_AHGS2672	AHGS2672		127.268	127.268	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A10	A10	0	131.119	TT_AhConsensus_ShirasawaBertioli2013_a_A10_AHGS2435	AHGS2435		127.303	127.303	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_A10	A10	0	131.119	TT_AhConsensus_ShirasawaBertioli2013_a_A10_Leg208	Leg208		131.119	131.119	CAPS	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_B01	B01	0	84.693	TT_AhConsensus_ShirasawaBertioli2013_a_B01_AhTE0602	AhTE0602		0	0	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B01	B01	0	84.693	TT_AhConsensus_ShirasawaBertioli2013_a_B01_TC3G01_c1	TC3G01_c1	GM34	4.55	4.55	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B01	B01	0	84.693	TT_AhConsensus_ShirasawaBertioli2013_a_B01_TC3G01_c2	TC3G01_c2	GM34	6.242	6.242	SSR	0
@@ -1870,7 +1859,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_B01	B01	0	84.693	TT_AhConsensus_Shirasawa
 TT_AhConsensus_ShirasawaBertioli2013_a_B01	B01	0	84.693	TT_AhConsensus_ShirasawaBertioli2013_a_B01_Seq16G08_c3	Seq16G08_c3		80.123	80.123	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B01	B01	0	84.693	TT_AhConsensus_ShirasawaBertioli2013_a_B01_GM1187	GM1187		82.737	82.737	marker	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B01	B01	0	84.693	TT_AhConsensus_ShirasawaBertioli2013_a_B01_S54	S54		84.693	84.693	SSR	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_B02	B02	0	111.975	TT_AhConsensus_ShirasawaBertioli2013_a_B02_Ai121G16	Ai121G16		0	0	STS	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B02	B02	0	111.975	TT_AhConsensus_ShirasawaBertioli2013_a_B02_AHS1855	AHS1855		2.639	2.639	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B02	B02	0	111.975	TT_AhConsensus_ShirasawaBertioli2013_a_B02_Seq2D12	Seq2D12		5.464	5.464	SSR	0
@@ -2025,7 +2013,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_B02	B02	0	111.975	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_B02	B02	0	111.975	TT_AhConsensus_ShirasawaBertioli2013_a_B02_AhTE0768	AhTE0768		105.407	105.407	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B02	B02	0	111.975	TT_AhConsensus_ShirasawaBertioli2013_a_B02_AHGS2113	AHGS2113		107.003	107.003	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B02	B02	0	111.975	TT_AhConsensus_ShirasawaBertioli2013_a_B02_AhTE0529	AhTE0529		111.975	111.975	transposon	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_B03	B03	0	144.789	TT_AhConsensus_ShirasawaBertioli2013_a_B03_Seq2E06_c2	Seq2E06_c2		0	0	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B03	B03	0	144.789	TT_AhConsensus_ShirasawaBertioli2013_a_B03_TC3E02_c3	TC3E02_c3	GM32	6.947	6.947	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B03	B03	0	144.789	TT_AhConsensus_ShirasawaBertioli2013_a_B03_AhTE0178_c2	AhTE0178_c2		9.622	9.622	transposon	0
@@ -2260,7 +2247,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_B03	B03	0	144.789	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_B03	B03	0	144.789	TT_AhConsensus_ShirasawaBertioli2013_a_B03_AhTE0498_c2	AhTE0498_c2		133.562	133.562	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B03	B03	0	144.789	TT_AhConsensus_ShirasawaBertioli2013_a_B03_AhTE0360_c2	AhTE0360_c2		134.048	134.048	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B03	B03	0	144.789	TT_AhConsensus_ShirasawaBertioli2013_a_B03_AHGS2277	AHGS2277		144.789	144.789	SSR	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_B04	B04	0	132.084	TT_AhConsensus_ShirasawaBertioli2013_a_B04_AHGS1789_c1	AHGS1789_c1		0	0	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B04	B04	0	132.084	TT_AhConsensus_ShirasawaBertioli2013_a_B04_AHGS1432_c2	AHGS1432_c2		0.373	0.373	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B04	B04	0	132.084	TT_AhConsensus_ShirasawaBertioli2013_a_B04_AHGS2793_c2	AHGS2793_c2		3.533	3.533	SSR	0
@@ -2469,7 +2455,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_B04	B04	0	132.084	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_B04	B04	0	132.084	TT_AhConsensus_ShirasawaBertioli2013_a_B04_Seq18C05_c2	Seq18C05_c2		119.874	119.874	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B04	B04	0	132.084	TT_AhConsensus_ShirasawaBertioli2013_a_B04_AHGS1999	AHGS1999		122.495	122.495	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B04	B04	0	132.084	TT_AhConsensus_ShirasawaBertioli2013_a_B04_AhTE0915	AhTE0915		132.084	132.084	transposon	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_B05	B05	0	112.694	TT_AhConsensus_ShirasawaBertioli2013_a_B05_GM657	GM657	GA72	0	0	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B05	B05	0	112.694	TT_AhConsensus_ShirasawaBertioli2013_a_B05_TC1G04_c2	TC1G04_c2	GM12	7.137	7.137	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B05	B05	0	112.694	TT_AhConsensus_ShirasawaBertioli2013_a_B05_IPAHM352_c2	IPAHM352_c2		15.637	15.637	SSR	0
@@ -2639,7 +2624,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_B05	B05	0	112.694	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_B05	B05	0	112.694	TT_AhConsensus_ShirasawaBertioli2013_a_B05_RN31E11_c2	RN31E11_c2		106.122	106.122	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B05	B05	0	112.694	TT_AhConsensus_ShirasawaBertioli2013_a_B05_AHS0374	AHS0374		110.273	110.273	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B05	B05	0	112.694	TT_AhConsensus_ShirasawaBertioli2013_a_B05_AHGS2251	AHGS2251		112.694	112.694	SSR	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_B06	B06	0	152.473	TT_AhConsensus_ShirasawaBertioli2013_a_B06_AhTE0061	AhTE0061		0	0	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B06	B06	0	152.473	TT_AhConsensus_ShirasawaBertioli2013_a_B06_AhTE0547_c2	AhTE0547_c2		19.88	19.88	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B06	B06	0	152.473	TT_AhConsensus_ShirasawaBertioli2013_a_B06_AhTE0751	AhTE0751		31.83	31.83	transposon	0
@@ -2816,7 +2800,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_B06	B06	0	152.473	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_B06	B06	0	152.473	TT_AhConsensus_ShirasawaBertioli2013_a_B06_AhTE0899	AhTE0899		132.4	132.4	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B06	B06	0	152.473	TT_AhConsensus_ShirasawaBertioli2013_a_B06_AHS1413_c2	AHS1413_c2		141.739	141.739	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B06	B06	0	152.473	TT_AhConsensus_ShirasawaBertioli2013_a_B06_AhTE1018_c2	AhTE1018_c2		152.473	152.473	transposon	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_B07	B07	0	179.082	TT_AhConsensus_ShirasawaBertioli2013_a_B07_AHGS2728	AHGS2728		0	0	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B07	B07	0	179.082	TT_AhConsensus_ShirasawaBertioli2013_a_B07_AhTE0996	AhTE0996		8.059	8.059	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B07	B07	0	179.082	TT_AhConsensus_ShirasawaBertioli2013_a_B07_RN13D04_c2	RN13D04_c2	GM175	9.689	9.689	SSR	0
@@ -2979,7 +2962,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_B07	B07	0	179.082	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_B07	B07	0	179.082	TT_AhConsensus_ShirasawaBertioli2013_a_B07_AhTE0847	AhTE0847		141.702	141.702	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B07	B07	0	179.082	TT_AhConsensus_ShirasawaBertioli2013_a_B07_AhTE0848	AhTE0848		173.586	173.586	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B07	B07	0	179.082	TT_AhConsensus_ShirasawaBertioli2013_a_B07_AHGS2236_c2	AHGS2236_c2		179.082	179.082	SSR	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_B08	B08	0	107.255	TT_AhConsensus_ShirasawaBertioli2013_a_B08_AHGS1616	AHGS1616		0	0	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B08	B08	0	107.255	TT_AhConsensus_ShirasawaBertioli2013_a_B08_AhTE0619	AhTE0619		8.243	8.243	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B08	B08	0	107.255	TT_AhConsensus_ShirasawaBertioli2013_a_B08_AhTE0006_c2	AhTE0006_c2		20.268	20.268	transposon	0
@@ -3156,7 +3138,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_B08	B08	0	107.255	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_B08	B08	0	107.255	TT_AhConsensus_ShirasawaBertioli2013_a_B08_AHGS2460	AHGS2460		100.828	100.828	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B08	B08	0	107.255	TT_AhConsensus_ShirasawaBertioli2013_a_B08_Seq8H01	Seq8H01		100.828	100.828	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B08	B08	0	107.255	TT_AhConsensus_ShirasawaBertioli2013_a_B08_Seq3A06_c1	Seq3A06_c1		107.255	107.255	SSR	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_B09	B09	0	170.544	TT_AhConsensus_ShirasawaBertioli2013_a_B09_GM2584_c2	GM2584_c2		0	0	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B09	B09	0	170.544	TT_AhConsensus_ShirasawaBertioli2013_a_B09_AhTE1034	AhTE1034		25.459	25.459	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B09	B09	0	170.544	TT_AhConsensus_ShirasawaBertioli2013_a_B09_Seq17C09	Seq17C09		30.629	30.629	SSR	0
@@ -3336,7 +3317,6 @@ TT_AhConsensus_ShirasawaBertioli2013_a_B09	B09	0	170.544	TT_AhConsensus_Shirasaw
 TT_AhConsensus_ShirasawaBertioli2013_a_B09	B09	0	170.544	TT_AhConsensus_ShirasawaBertioli2013_a_B09_AhTE0562	AhTE0562		151.587	151.587	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B09	B09	0	170.544	TT_AhConsensus_ShirasawaBertioli2013_a_B09_AhTE0328_c2	AhTE0328_c2		161.973	161.973	transposon	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B09	B09	0	170.544	TT_AhConsensus_ShirasawaBertioli2013_a_B09_AhTE1029	AhTE1029		170.544	170.544	transposon	0
-
 TT_AhConsensus_ShirasawaBertioli2013_a_B10	B10	0	121.342	TT_AhConsensus_ShirasawaBertioli2013_a_B10_Seq8D09_c2	Seq8D09_c2		0	0	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B10	B10	0	121.342	TT_AhConsensus_ShirasawaBertioli2013_a_B10_Seq3B06_c2	Seq3B06_c2		0.957	0.957	SSR	0
 TT_AhConsensus_ShirasawaBertioli2013_a_B10	B10	0	121.342	TT_AhConsensus_ShirasawaBertioli2013_a_B10_GM1483_c2	GM1483_c2		3.239	3.239	SSR	0
