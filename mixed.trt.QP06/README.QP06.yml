@@ -52,3 +52,4 @@ file_transformation:
 changes: 
   - 2018-07-08 Creation of repository
   - 2018-07-11 Changed key from SHSZ to QP06 because of collision with arasp.mixed.rpt2.SHSZ
+  - 2020-04-09 Renamed from trt2 to trt
